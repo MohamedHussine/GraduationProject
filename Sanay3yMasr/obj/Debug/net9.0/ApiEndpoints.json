@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "Sanay3yMasr.Controllers.CityController",
+    "Method": "NewCity",
+    "RelativePath": "api/City/NewCity",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "city",
+        "Type": "DataAccess.Models.City",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Boolean",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
